@@ -64,3 +64,7 @@ axs[0].legend()
 axs[1].grid()
 axs[1].plot(wl5548, flux5548, 'tab:orange', label='NGC5548')
 axs[1].legend()
+
+fig = plt.savefig('spectres.jpeg')
+
+# %%
