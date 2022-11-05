@@ -1,0 +1,5 @@
+(Å) Galaxy Quasar SPECIES
+5578.5  0.0 0.0 Sky
+5894.6  0.0 0.0	Sky
+6301.7  0.0 0.0	Sky
+7246.0  0.0 0.0	Sky
